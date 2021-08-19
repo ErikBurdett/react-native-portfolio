@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
         borderColor: 'lightblue',
         borderWidth: 2,
         borderRadius: 75,
-        marginTop: 180,
+        marginTop: 20,
         
   },
 });
